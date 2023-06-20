@@ -32,12 +32,12 @@
 ![JSON](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json&logoColor=5E5C5C)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=louieknolle&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louieknolle&hide=TeX&layout=compact)
 
 <!--
 **louieknolle/louieknolle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=louieknolle&count_private=true&show_icons=true&include_all_commits=true)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
