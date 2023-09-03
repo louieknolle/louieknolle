@@ -34,10 +34,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louieknolle&hide=TeX&layout=compact)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=louieknolle&count_private=true&show_icons=true&include_all_commits=true)
+
 <!--
 **louieknolle/louieknolle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=louieknolle&count_private=true&show_icons=true&include_all_commits=true)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
