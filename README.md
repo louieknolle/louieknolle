@@ -26,7 +26,7 @@ Backend Tools & DBs:\
 Fundamentals & Styling:\
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/materialui-%230769AD.svg?style=for-the-badge&logo=materialui&logoColor=white)
+![MaterialUI]((https://img.shields.io/badge/mui-%230769AD.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)\
 Misc:\
@@ -38,7 +38,7 @@ Misc:\
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json&logoColor=5E5C5C)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)\
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louieknolle&hide=TeX&layout=compact)
 
