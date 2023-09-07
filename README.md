@@ -1,9 +1,9 @@
 # Greetings! Welcome to my GitHub  ✨😃
 
-## My name is Louie Knolle and I'm a fast learning Full Stack Software Developer, proficient in Javascript, React, Typscript, C# and .NET. You can connect with me via:
+## My name is Louie Knolle and I'm a fast learning Full Stack Software Developer, currently working with Typescript, React, GraphQL, Node.js, and Ruby on Rails. You can connect with me via:
 
 [![Linkedin Badge](https://img.shields.io/badge/-louieknolle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louieknolle/)](https://www.linkedin.com/in/louieknolle/)
-[![Gmail Badge](https://img.shields.io/badge/-knollelw@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knollelw@gmail.com)](mailto:knollelw@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-knollelw@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knollelw@gmail.com)](mailto:louie.knolle@gmail.com)
 
 ### 🚀💻 Technologies & Tools
 
@@ -19,6 +19,7 @@ Frameworks & Libraries:\
 ![Ruby](https://img.shields.io/badge/rails-CC0000?style=for-the-badge&logo=rails&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)\
 Backend Tools & DBs:\
+![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
