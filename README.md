@@ -40,10 +40,9 @@ Misc:\
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json&logoColor=5E5C5C)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louieknolle&hide=TeX&layout=compact)
 
-<!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=louieknolle&count_private=true&show_icons=true&include_all_commits=true)
 
 
